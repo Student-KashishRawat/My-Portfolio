@@ -3,6 +3,9 @@
 This is my personal portfolio project created using **HTML and CSS**.  
 It represents my learning journey and showcases my skills, education, and projects in a structured way.
 
+## Live Site
+[![Visit Site](https://img.shields.io/badge/Live%20Site-Visit-blue)](https://student-kashishrawat.github.io/My-Portfolio/)
+
 ## About
 I am a 3rd-year **BCA student** with a strong interest in programming and problem-solving.  
 I enjoy working on practical projects and continuously improving my core computer skills.
@@ -22,5 +25,3 @@ I enjoy working on practical projects and continuously improving my core compute
 - Frontend E-commerce Project (Myntra-inspired)
 - Personal Portfolio Project
 - Cafe / Restaurant Landing Page
-
-
